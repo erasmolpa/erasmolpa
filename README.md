@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <a href="https://twitter.com/erasmolpa">
   <img align="left" alt="Erasmo Dóminguez Jiménez | Twitter" width="21px" src="https://raw.githubusercontent.com/erasmolpa/erasmolpa/master/assets/twitter.png" />
 </a>
@@ -12,7 +11,6 @@
 <a href="https://www.instagram.com/erasmolpa/">
   <img align="left" alt="Erasmo Dóminguez Jiménez | Instagram" width="21px" src="https://raw.githubusercontent.com/erasmolpa/erasmolpa/master/assets/instagram.png" />
 </a>
-
 <br />
 <br />
 
