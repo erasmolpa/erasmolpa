@@ -18,7 +18,13 @@
 
 Hi, I'm Erasmo Domínguez, a passionate software engineer from Canary Islands .
 
-- 🌱 I’m currently learning Go & Kubernetes.
+- 🌱 I’m currently learning Go and improving skills about Microservices and Cloud Native Tools.
+- My live
+       :family:
+       :running:
+       :beer:
+       :computer: 
+       
 - 📫 The best way to reach me is by sending me an email erasmolpa@gmail.com
 - 💬 Ask me about anything [here](https://github.com/erasmolpa/erasmolpa/issues).
 
