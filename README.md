@@ -21,7 +21,7 @@ Hi!! I'm Erasmo Domínguez. A passionate Platform / Backend Software Engineer fr
 - 🦥  I´m a lazzy Engineer. That´s the main reason why i love to automate everything 🤓
 - I´m working as SRE Lead at [Domingo Alonso Group](https://www.domingoalonsogroup.com) 
 - 🌱 I’m currently learning Go and improving skills about Microservices and Cloud Native Tools.
-- Sometimes a write random content on my website [devnativo](https://devnativo.com)
+- Sometimes I write random content on my website [devnativo](https://devnativo.com)
 - In love with my :family:
 - 🧉 and :computer: are a perfect mach in my daily life.
 - I enjoy :running: and :bike:
