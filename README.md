@@ -16,16 +16,14 @@
 
 **Thanks for visiting my GitHub profile!** 😊
 
-Hi, I'm Erasmo Domínguez, a passionate software engineer from Canary Islands .
+Hi, I'm Erasmo Domínguez, a passionate Platform / Backend Software Engineer from Canary Islands .
 
+-  
 - 🌱 I’m currently learning Go and improving skills about Microservices and Cloud Native Tools.
-- My live
-       :family:
-       :running:
-       :beer:
-       :computer: 
+- Sometimes a write random content in my website **http://devnativo.com**
+- In love with my :family: . 🧉 and :computer: are a perfect mach in my daily life. I enjoy :running: and :bike: . :beer: lover 
        
-- 📫 The best way to reach me is by sending me an email erasmolpa@gmail.com
+- 📫 The best way to reach me is by sending me an :email: erasmolpa@gmail.com
 - 💬 Ask me about anything [here](https://github.com/erasmolpa/erasmolpa/issues).
 
 **Languages and Tools:**  
