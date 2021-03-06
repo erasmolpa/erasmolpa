@@ -29,6 +29,7 @@ Hi!! I'm Erasmo Domínguez. A passionate Platform / Backend Software Engineer fr
        
 - 📫 The best way to reach me is by sending me an :email: erasmolpa@gmail.com
 - 💬 Ask me about anything [here](https://github.com/erasmolpa/erasmolpa/issues).
+- ✍🏻 visit my blog [devnativo.com](https://devnativo.com/)
 
 **Languages and Tools:**  
 
