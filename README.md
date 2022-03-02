@@ -16,6 +16,8 @@
 
 **Thanks for visiting my GitHub profile!** 😊
 
+⚠️ This account is for non-professional purpose. I'm one of those people who has 2 github accounts [erasmodominguezdc](https://github.com/erasmodominguezdc)
+
 Hi!! I'm Erasmo Domínguez. A passionate Platform / Backend Software Engineer from Canary Islands. 🏝️
 
 - 🦥  I´m a lazzy Engineer. That´s the main reason why i love to automate everything 🤓
