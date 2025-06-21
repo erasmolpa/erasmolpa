@@ -8,7 +8,7 @@
 🚀 I’m a pragmatic and experienced engineer with almost **20 years** in the industry. I’ve worked as:
 
 - 🔹 **DevOps Tech Lead** at Schroders (Fintech, UK)
-- 🔹 **Staff SRE / Observability Tech Lead** at Warner Bros Discovery (via Wizeline)
+- 🔹 **Staff SRE / Observability Tech Lead** at Warner Bros Discovery
 
 🧠 I specialize in building resilient cloud-native infrastructure, creating reusable DevOps tooling, and mentoring engineers into senior roles.
 
