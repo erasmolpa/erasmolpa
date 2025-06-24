@@ -14,6 +14,16 @@
 
 ---
 
+### 🧾 My CV
+
+If you want to know more about my background, experience, and leadership focus:
+
+📄 [View my CV in Markdown](https://github.com/erasmolpa/profile/blob/main/cv.md)
+
+💡 It reflects how I think, lead, and grow systems and people — with a clear, senior-level perspective.
+
+---
+
 ### 🛠 Tech Stack & Focus
 
 - ☁️ **Cloud**: Azure, AWS  
