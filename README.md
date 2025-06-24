@@ -14,16 +14,6 @@
 
 ---
 
-### 🧾 My CV
-
-If you want to know more about my background, experience, and leadership focus:
-
-📄 [View my CV in Markdown](https://github.com/erasmolpa/profile/blob/main/cv.md)
-
-💡 It reflects how I think, lead, and grow systems and people — with a clear, senior-level perspective.
-
----
-
 ### 🛠 Tech Stack & Focus
 
 - ☁️ **Cloud**: Azure, AWS  
@@ -37,6 +27,16 @@ If you want to know more about my background, experience, and leadership focus:
 
 ### 📂 Projects (Personal Lab & Tooling)
 - All my repos are hosted in the following Github organization [erasmo-dominguez-stuff](https://github.com/erasmo-dominguez-stuff)
+---
+
+### 🧾 My CV
+
+If you want to know more about my background, experience, and leadership focus:
+
+📄 [View my CV in Markdown](https://github.com/erasmolpa/profile/blob/main/cv.md)
+
+💡 It reflects how I think, lead, and grow systems and people — with a clear, senior-level perspective.
+
 ---
 
 ### 📈 GitHub Stats
@@ -53,3 +53,4 @@ If you want to know more about my background, experience, and leadership focus:
 - 💼 [LinkedIn](https://www.linkedin.com/in/erasmodominguez/)
 - 🐦 [Twitter](https://twitter.com/erasmolpa)
 - 💻 [Professional GitHub](https://github.com/erasmodominguezdc)
+
